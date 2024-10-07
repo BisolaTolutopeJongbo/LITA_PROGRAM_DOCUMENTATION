@@ -8,11 +8,21 @@ The goal is to derive actionable insights that can help improve decision-making,
 and boost overall business performance. By analyzing sales trends, profit margins, and geographic distribution,
 we aim to identify high-performing products, representatives, and markets.
 
+
+### DATA USED [Download here [International Breweries.csv](https://github.com/user-attachments/files/17278315/International.Breweries.csv)])
+
+
+### TOOLS USED
+- Microsft Excel for Data Cleaning
+- Structured Query Language for Query of Data
+- Github for portofoilo building
+
 ### DATA CLEANING & PREPARATION
 To ensure accuracy and reliability in our analysis, the following data cleaning and preparation steps were performed:
-1.	Removal of Duplicates
-2.	Checked for Missing Values
-3.	Data Type Validation
+- Removal of Duplicates
+- Checked for Missing Values
+- 	Data Type Validation
+
 
 
 
