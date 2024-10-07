@@ -8,5 +8,12 @@ The goal is to derive actionable insights that can help improve decision-making,
 and boost overall business performance. By analyzing sales trends, profit margins, and geographic distribution,
 we aim to identify high-performing products, representatives, and markets.
 
+### DATA CLEANING & PREPARATION
+To ensure accuracy and reliability in our analysis, the following data cleaning and preparation steps were performed:
+1.	Removal of Duplicates
+2.	Checked for Missing Values
+3.	Data Type Validation
+
+
 
 
